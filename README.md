@@ -40,7 +40,7 @@ This project focuses on analyzing customer transaction data to derive insights, 
 - Quantified the effectiveness of store layout changes through experimentation.
 - Delivered actionable recommendations to optimize sales and enhance customer retention.
 
-<!
+<!--
 ## 📂 Project Structure
 ```
 📦 Customer_Analytics_Project
@@ -76,3 +76,4 @@ Feel free to fork the repository and submit pull requests for improvements!
 ## 📩 Contact
 For any questions or collaboration inquiries, reach out via [email@example.com](mailto:email@example.com).
 
+--!>

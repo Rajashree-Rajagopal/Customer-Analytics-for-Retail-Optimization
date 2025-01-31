@@ -1,5 +1,3 @@
-# Customer-Analytics-for-Retail-Optimization
-
 # Customer Analytics & Experimentation for Retail Optimization
 
 ## 📌 Project Overview
@@ -7,19 +5,26 @@ This project focuses on analyzing customer transaction data to derive insights, 
 
 ## 🚀 Key Objectives
 1. **Data Preparation & Customer Analytics**  
-   - Clean and preprocess transaction and customer data.
-   - Identify customer purchasing patterns and segment customers.
-   - Generate commercial recommendations based on insights.
+   - Examine transaction data for inconsistencies, missing values, outliers, and category identification issues.
+   - Clean and preprocess customer data, checking for nulls and merging it with transaction data for analysis.
+   - Save cleaned datasets for future use.
 
-2. **Experimentation & Uplift Testing**  
-   - Define metrics for control and trial store selection.
-   - Conduct statistical analysis to measure sales impact.
-   - Use data visualization to compare trial vs. control store performance.
+2. **Data Analysis & Customer Segmentation**  
+   - Define key metrics such as total sales, sales drivers, and high-performing categories.
+   - Conduct an in-depth analysis of customer behavior and segmentations.
+   - Create charts, graphs, and visualizations to illustrate key trends and insights.
+   - Save all analyses and visualizations for reporting.
 
-3. **Analytics & Commercial Application**  
+3. **Experimentation & Uplift Testing**  
+   - Identify benchmark stores and define control metrics.
+   - Conduct statistical analysis to compare trial and control stores.
+   - Use Python/R for data analysis and visualization, summarizing findings and providing recommendations.
+
+4. **Analytics & Commercial Application**  
    - Structure insights into a client-facing report using the Pyramid Principles framework.
-   - Translate data findings into actionable business recommendations.
-   - Present data-driven solutions through compelling visual storytelling.
+   - Define customer segments and develop actionable recommendations.
+   - Determine optimal strategies based on packet sizes and purchasing behaviors.
+   - Present findings through compelling data-driven storytelling.
 
 ## 🛠️ Tech Stack & Tools
 - **Programming Languages:** Python / R
@@ -29,17 +34,17 @@ This project focuses on analyzing customer transaction data to derive insights, 
 - **Reporting Framework:** Pyramid Principles for structuring client reports
 
 ## 📊 Approach
-1. **Data Cleaning & Preparation:** Process transaction datasets to handle missing values, inconsistencies, and duplicates.
-2. **Customer Segmentation:** Identify behavioral patterns and sales drivers to enhance business strategy.
-3. **Experimentation Design:** Define trial and control stores based on sales metrics.
-4. **Statistical Analysis:** Perform uplift testing to determine the effectiveness of new store layouts.
-5. **Insights & Recommendations:** Develop a structured report with key findings and data-driven suggestions.
+1. **Data Examination & Cleaning:** Process transaction and customer datasets to remove anomalies, handle missing values, and ensure consistency.
+2. **Customer Segmentation:** Identify behavioral patterns and sales drivers to refine business strategy.
+3. **Experimentation Design:** Select control stores based on defined sales metrics.
+4. **Statistical Analysis:** Perform uplift testing to determine the impact of store layout changes.
+5. **Insights & Recommendations:** Develop structured reports with key findings and data-driven suggestions.
 
 ## 🎯 Impact
-- Identified key customer segments to tailor marketing strategies.
-- Quantified the effectiveness of store layout changes through experimentation.
-- Delivered actionable recommendations to optimize sales and enhance customer retention.
-
+- Improved data quality through rigorous preprocessing and cleaning.
+- Identified key customer segments to optimize marketing strategies.
+- Quantified the effectiveness of store layout changes through controlled experimentation.
+- Provided actionable recommendations to boost sales and enhance customer retention.
 <!--
 ## 📂 Project Structure
 ```
